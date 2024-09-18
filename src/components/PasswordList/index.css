@@ -1,0 +1,45 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #64748b;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 15px;
+  flex-wrap: wrap;
+  
+}
+.first-letter {
+  background-color: #14b8a6;
+  padding: 25px;
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  border-radius: 50%;
+  text-align: center;
+}
+.web {
+  color: white;
+  font-family: roboto;
+}
+.name {
+  color: white;
+  font-family: roboto;
+}
+.pass {
+  color: white;
+  font-family: roboto;
+}
+.start-img {
+  width: 100px;
+}
+.delete-img {
+  width: 25px;
+}
+.delete {
+  background-color: transparent;
+  border-width: 0px;
+}
+.details-list{
+  margin-right: 30px;
+  margin-left: 10px;
+}

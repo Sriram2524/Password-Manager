@@ -1,0 +1,137 @@
+.password-img {
+  width: 400px;
+}
+.logo-img {
+  width: 130px;
+}
+.logo-con {
+  margin-left: 30px;
+}
+.bg-container {
+  background: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  min-height: 100vh;
+  padding: 40px;
+}
+.add-user-details-con {
+  background-color: #5763a5;
+  border-radius: 6px;
+  padding: 30px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.add-user-card {
+  background-color: #454f84;
+  border-radius: 10px;
+  padding: 20px;
+  width: 400px;
+}
+.add-password-name {
+  font-size: 30px;
+
+  color: #f8fafc;
+}
+.website-name-con {
+  background-color: #f8fafc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.web-site-img {
+  width: 20px;
+}
+.input {
+  border-width: 0px;
+  padding: 5px;
+  align-self: flex-start;
+}
+.button {
+  background-color: #0b69ff;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.button-con {
+  text-align: right;
+}
+.password-list-con {
+  background-color: #454f84;
+  border-radius: 6px;
+  padding: 30px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.num-of-pass-input-con {
+  display: flex;
+  justify-content: space-between;
+}
+.name-num-con {
+  display: flex;
+}
+.your-password-name {
+  color: white;
+  font-family: roboto;
+  font-size: 20px;
+  padding-right: 5px;
+  align-self: center;
+}
+.num {
+  align-self: center;
+  background-color: transparent;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  border: 1px solid #b6c3ca;
+}
+.search-input-con {
+}
+.search-img {
+  width: 20px;
+  background-color: white;
+  padding: 15px;
+}
+.search-input {
+  width: 200px;
+  padding: 6px;
+}
+.horizental-line {
+  color: #f8fafc;
+  border: 5 solid #f8fafc;
+}
+.show-password-con {
+  text-align: right;
+}
+.label {
+  font-family: roboto;
+  color: white;
+  font-size: 15px;
+}
+.check {
+  align-self: center;
+}
+.empty-password-img {
+  width: 400px;
+}
+.no-password-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.no-pass-name {
+  font-family: ROBOTO;
+  color: white;
+}
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+    flex-wrap: wrap;
+}
